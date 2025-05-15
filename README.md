@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nathan aka. @nath2125<br>👀 I’m interested in: Information Technology<br>🌱 I’m currently learning: Information Technology at TAFE Australia<br>💞️ I’m looking to collaborate on: Any basic level projects!
+👋 Hi, I’m Nathan aka. @nath2125<br>👀 I’m passionate about all things IT and systems administration<br>💼 Currently working in the IT field as a junior system admin/technician<br>⚙️ Gaining hands-on experience with Proxmox, Docker, Ansible, and Linux systems<br>💡 Always learning and refining my homelab to improve automation and reliability<br>🤝 Open to collaborating on tech projects and sharing knowledge
 
 
 ## 🌐 Socials:
